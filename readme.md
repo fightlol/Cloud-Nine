@@ -47,3 +47,7 @@ Here are a list of commands
 ![Cloud Nine](https://cdn.discordapp.com/attachments/886942630922055691/886986334223343616/1761712.jpg)
 
 # [Yat-o](https://github.com/Yat-o/Kurisu)
+  
+# Support
+  
+Join my support server [Here](https://discord.gg/eD6Js3gEFx)
