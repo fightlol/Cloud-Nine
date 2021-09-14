@@ -18,7 +18,7 @@ Here are a list of commands
 
 ## Images
 
-**Usage: image <category>**
+**Usage: image category**
 
 ### Category
 
